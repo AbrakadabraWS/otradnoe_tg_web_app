@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/otradnoe_tg_web_app/static/css/main.db675321.css",
-    "main.js": "/otradnoe_tg_web_app/static/js/main.32c14402.js",
+    "main.css": "/otradnoe_tg_web_app/static/css/main.b1e11267.css",
+    "main.js": "/otradnoe_tg_web_app/static/js/main.9d4e9aa4.js",
     "static/media/logoColor.svg": "/otradnoe_tg_web_app/static/media/logoColor.3b8ba6c218cd825d51f98a195a25d502.svg",
     "index.html": "/otradnoe_tg_web_app/index.html",
-    "main.db675321.css.map": "/otradnoe_tg_web_app/static/css/main.db675321.css.map",
-    "main.32c14402.js.map": "/otradnoe_tg_web_app/static/js/main.32c14402.js.map"
+    "main.b1e11267.css.map": "/otradnoe_tg_web_app/static/css/main.b1e11267.css.map",
+    "main.9d4e9aa4.js.map": "/otradnoe_tg_web_app/static/js/main.9d4e9aa4.js.map"
   },
   "entrypoints": [
-    "static/css/main.db675321.css",
-    "static/js/main.32c14402.js"
+    "static/css/main.b1e11267.css",
+    "static/js/main.9d4e9aa4.js"
   ]
 }
